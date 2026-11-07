@@ -1,0 +1,15 @@
+# Default look. Users can switch Light/Dark/System in the app: menu (⋮) > Settings > Theme.
+[theme]
+primaryColor = "#6366f1"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+# Light:
+[theme]
+base = "light"
+backgroundColor = "#587dc7"
+secondaryBackgroundColor = "#5f6cc1"
+textColor = "#0f172a"
+primaryColor = "#4f46e5"
